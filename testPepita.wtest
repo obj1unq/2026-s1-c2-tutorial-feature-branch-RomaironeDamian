@@ -1,9 +1,9 @@
 import pepita.pepita
 
-describe "group of tests for pepita" {
+describe "grupos de test para Pepita" {
 
-  test "pepita has initial energy" {
-    assert.equals(100, pepita.energy())
+  test "pepita tiene una energia inicial" {
+    assert.equals(100, pepita.energia())
   }
 
 }
